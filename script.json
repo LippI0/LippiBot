@@ -2,7 +2,7 @@
    "JA":"Was will man mehr!?" 
     "BOT" : "Hey my friend!\nDo your remember beeing a kid and watching your hero talking to a car or other kind of computer.\nYou can be the hero now.\nI am here to tell you more about innofol.io and Lippi.\n!Want to know more about innofol.io or learn about Lippi? %[I'm here for innofol.io](postback:here_for_innofolio) %[Get to know Lippi](postback:Lippi) %[One random fact!](postback:random_fact)",
     "HELLO": "Cool, that you started talking to LippiBot! Do you want to let Lippi know that you're having a chit chat with his bot? %[Tell her](postback:twitter)",
-    "Get to know Lippi": "[Lippi](http://innofol.io/wp-content/uploads/2016/07/Card-150x150.jpg)\nSee the guy up there!? That's Lippi!\nHe's a student and dreamer from Aachen.%[Mor about Lippi](http://innofol.io/lippi)",
+    "Lippi": "[Lippi](http://innofol.io/wp-content/uploads/2016/07/Card-150x150.jpg)\nSee the guy up there!? That's Lippi!\nHe's a student and dreamer from Aachen.%[Mor about Lippi](http://innofol.io/lippi)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
